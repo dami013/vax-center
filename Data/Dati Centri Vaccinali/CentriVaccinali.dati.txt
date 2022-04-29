@@ -1,0 +1,36 @@
+SCHIRANNA 
+Comune: VARESE 
+Indirizzo: VIA COMO 39 
+Provincia: (VA) CAP: 22070 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 
+CERNOBBIO 
+Comune: CERNOBBIO 
+Indirizzo: VIA VARESE 39 
+Provincia: (CO) CAP: 22070 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 
+LURATE 
+Comune: LURATE CACCIVIO 
+Indirizzo: VIA MILANO 39 
+Provincia: (CO) CAP: 22070 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 
+SOLBIATESE 
+Comune: SOLBIATE OLONA 
+Indirizzo: VIA BERGAMO 78 
+Provincia: (VA) CAP: 21058 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 
+MALPENSA FIERE 
+Comune: NAPOLI 
+Indirizzo: VIA COMO 39 
+Provincia: (NA) CAP: 22070 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 
+MESSIVO 
+Comune: ROMA 
+Indirizzo: VIA ROMA 39 
+Provincia: (RO) CAP: 22070 
+centro vaccinale di tipo HUB 
+------------------------------------------------------------------------------------------- 

@@ -1,0 +1,12 @@
+Numero segnalazioni= 0 somma severità= 0 
+MAURO ZARATE codice fiscale: ASDFGHJKLASDFGHJ  
+Luogo di vaccinazione: SCHIRANNA  
+Vaccino somministrato: MODERNA in data 10/09/2021  
+mal di testa: non noto 
+febbre: non noto 
+Dolori articolari e muscolari: non noto 
+Linfoadenopatia: non noto 
+Tachicardia: non noto 
+Crisi ipertensiva: non noto 
+  
+ -------------------------------------------------------------------------------------------  

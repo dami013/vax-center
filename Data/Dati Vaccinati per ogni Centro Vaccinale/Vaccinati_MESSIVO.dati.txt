@@ -1,0 +1,12 @@
+Numero segnalazioni= 2 somma severità= 6 
+MARIUZ DRAGHIZ codice fiscale: ASDFZXCVQWERRFVC  
+Luogo di vaccinazione: MESSIVO  
+Vaccino somministrato: MODERNA in data 12/12/2021  
+mal di testa: non noto  
+febbre: evento verificatosi con severità pari a 4.  note opzionali: molto dolore 
+Dolori articolari e muscolari: evento verificatosi con severità pari a 2.  note opzionali: malissimo 
+Linfoadenopatia: non noto  
+Tachicardia: non noto  
+Crisi ipertensiva: non noto  
+  
+ -------------------------------------------------------------------------------------------  
