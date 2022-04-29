@@ -4,10 +4,13 @@ LABORATORIO A, CORSO DI LAUREA TRIENNALE IN INFORMATICA
 UNIVERSITA' DEGLI STUDI DELL'INSUBRIA
 
 PROGETTO REALIZZATO DA:
+
 CASSANI ALESSANDRO, matricola 744512 acassani@studenti.uninsubria.it sede: Varese
+
 FICARA DAMIANO, matricola 744958 dficara@studenti.uninsubria.it sede: Varese
+
 BRUSCAGIN PAOLO, matricola 744703 pbruscagin@studenti.uninsubria.it sede: Varese
-TORNO SIMONE, matricola 746592 storno@studenti.uninsubria.it sede: Varese
+
  
 ***********************************************************************************
 
