@@ -5,11 +5,11 @@ UNIVERSITA' DEGLI STUDI DELL'INSUBRIA
 
 PROGETTO REALIZZATO DA:
 
-CASSANI ALESSANDRO, matricola 744512 acassani@studenti.uninsubria.it sede: Varese
+CASSANI ALESSANDRO
 
-FICARA DAMIANO, matricola 744958 dficara@studenti.uninsubria.it sede: Varese
+FICARA DAMIANO
 
-BRUSCAGIN PAOLO, matricola 744703 pbruscagin@studenti.uninsubria.it sede: Varese
+BRUSCAGIN PAOLO
 
  
 ***********************************************************************************
