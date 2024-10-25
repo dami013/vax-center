@@ -1,43 +1,52 @@
+# 🌟 VaxCenter_A
 
-PROGETTO VAXCENTER
-LABORATORIO A, CORSO DI LAUREA TRIENNALE IN INFORMATICA
-UNIVERSITA' DEGLI STUDI DELL'INSUBRIA
+**Course:** Bachelor’s Degree in Computer Science  
+**University:** University of Insubria
 
-PROGETTO REALIZZATO DA:
+---
 
-CASSANI ALESSANDRO
+## 👨‍🎓 Team Members
+- **Alessandro Cassani**  
+  Location: Varese
 
-FICARA DAMIANO
+- **Damiano Ficara**  
+  Location: Varese
 
-BRUSCAGIN PAOLO
+- **Paolo Bruscagin**  
+  Location: Varese
 
- 
-***********************************************************************************
+---
 
-CONTENUTI DELL'ARCHIVIO:
+## 📦 Project Contents
+- **VaxCenter.jar:** An executable JAR file that runs the application.
+- **Original_Project_All_Folders.rar:** A comprehensive archive containing:
+  - **Source files** (`*.java`)
+  - **Compiled class files** (`*.class`)
+  - **JAR file**
+- **JavaDoc:** Detailed documentation generated using Javadoc.
+- **Documentation Folder:** Includes:
+  - 📄 User Manual
+  - 📚 Technical Manual
+- **Source Folder (`src`):** Contains the complete source code.
+- **Binary Folder (`bin`):** Contains compiled executable files.
+- **Data Folder (`data`):** Contains essential data files.
 
-- VaxCenter.jar : file jar eseguibile
-- Original_project_all_folders.rar : progetto originale, 
-  contiene le cartelle con i file sorgenti (.java), i file *.class e il file .jar
-- JavaDoc : documentazione javadoc del progetto
-- Cartella doc : contenente manuale utente e manuale tecnico
-- Cartella src : contenente il codice sorgente
-- Cartella bin : contenente il codice eseguibile del progetto
-- Cartella data : contenente i file dati
+---
 
-***********************************************************************************
+## 📋 Requirements
+- **Java JDK:** Version 14 or higher is required.
+- **Supported Operating Systems:**
+  - Windows 10
+  - Linux Mint
+  - macOS
 
-REQUISITI:
+---
 
-- Java JDK 14 o superiore
-- Sistema Operativo : Windows 10 - Linux Mint - MacOs
-
-***********************************************************************************
-
-AVVIARE L'APPLICAZIONE:
-
-Accedere al terminale digitare:
-
-cd {percorso dove è situata la cartella VaxCenter }
-
+## 🚀 How to Start the Application
+1. **Open a terminal.**
+2. **Change the directory** to where the **VaxCenter** folder is located:
+   ```bash
+   cd {path_to_VaxCenter_folder}
+## Run the Application
+   ```bash
 java -jar VaxCenter.jar
